@@ -14,7 +14,7 @@ const ConfirmPay = () => {
           lineHeight: "64px",
         }}
       >
-        Confirm your payment
+        Confirm & payment
       </h1>
       <Container>
         <Box1>
