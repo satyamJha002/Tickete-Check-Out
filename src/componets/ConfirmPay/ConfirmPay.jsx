@@ -12,6 +12,7 @@ const ConfirmPay = () => {
           fontSize: "57px",
           padding: "12px",
           lineHeight: "64px",
+          marginTop: "32px",
         }}
       >
         Confirm & payment
@@ -31,14 +32,14 @@ const ConfirmPay = () => {
 const Container = styled.div`
   display: flex;
   flex-direction: row;
-
-  h1 {
-  }
+  justify-content: center;
+  margin-top: 32px;
 `;
 
 const Box1 = styled.div`
   width: 792px;
   height: 210px;
+  margin-right: 220px;
 `;
 
 const Box2 = styled.div`
